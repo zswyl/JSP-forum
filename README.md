@@ -5,7 +5,7 @@
 
 登录
 
-![](https://gitee.com/moshaoyu/PicGo_img/raw/master/images/Web%E7%99%BB%E5%BD%95%20.png)
+<img src="https://gitee.com/moshaoyu/PicGo_img/raw/master/images/Web%E7%99%BB%E5%BD%95%20.png"/>
 
 注册
 
