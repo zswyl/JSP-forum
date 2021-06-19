@@ -4,7 +4,7 @@
 # 运行界面
 
 登录
-<img src="https://gitee.com/moshaoyu/PicGo_img/raw/master/images/Web%E7%99%BB%E5%BD%95%20(1).png"/>
+<img src="https://i.loli.net/2021/06/19/lxAQpsUfw8CaIYJ.png"/>
 
 注册
 
@@ -16,7 +16,7 @@
 
 添加帖子
 
-![](https://gitee.com/moshaoyu/PicGo_img/raw/master/images/Web%E6%B7%BB%E5%8A%A0%E5%B8%96%E5%AD%90%20.png)
+<img src="https://i.loli.net/2021/06/19/R9aMxVWtzjO8sHh.png"/>
 
 添加后首页
 
