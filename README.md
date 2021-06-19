@@ -5,11 +5,11 @@
 
 登录
 
-![](https://gitee.com/moshaoyu/PicGo_img/raw/master/images/%E7%99%BB%E5%BD%95.png)
+![](https://gitee.com/moshaoyu/PicGo_img/blob/master/images/%E7%99%BB%E5%BD%95.png)
 
 注册
 
-![](https://gitee.com/moshaoyu/PicGo_img/raw/master/images/%E6%B3%A8%E5%86%8C.png)
+![](https://gitee.com/moshaoyu/PicGo_img/blob/master/images/%E6%B3%A8%E5%86%8C.png)
 
 首页
 
