@@ -20,4 +20,4 @@
 
 添加后首页
 
-![](https://gitee.com/moshaoyu/PicGo_img/raw/master/images/Web%E9%A6%96%E9%A1%B52%20.png)
+<img src="https://gitee.com/moshaoyu/PicGo_img/raw/master/images/Web%E9%A6%96%E9%A1%B52.png"/>
